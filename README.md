@@ -38,7 +38,7 @@ Getting familiar with Github and syncing the project from Xcode to Github. When 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Junia Jacinto]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
